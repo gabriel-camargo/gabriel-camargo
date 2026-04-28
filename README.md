@@ -1,16 +1,30 @@
-### Hello there 👋
+# Hey, I'm Gabriel 👋
 
-<!--
-**gabriel-camargo/gabriel-camargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer focused on building reliable and maintainable systems.
 
-Here are some ideas to get you started:
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Clojure](https://img.shields.io/badge/Clojure-5881D8?style=flat&logo=clojure&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About
+
+Backend engineer working mainly with **Go**, **Clojure**, and **Node.js**. I care about clean abstractions, resilient systems, and good observability.
+
+When I'm not debugging production at odd hours, you'll find me at a specialty coffee shop, on a trail somewhere, or catching a live show.
+
+## Currently
+
+- ⚙️ Building systems with Go and Clojure
+- 🔨 Also in the toolkit: Node.js / Typescript
+- 📖 Learning more about distributed systems and observability 
+- 🚫 Avoiding O(n²) and magic frameworks
+
+## 📫 Contact
+
+- LinkedIn: [in/gabriel-rodrigo-camargo](https://www.linkedin.com/in/gabriel-rodrigo-camargo)
+
+---
+
+☕ specialty coffee nerd &nbsp;|&nbsp; 🎸 nu metal / alt rock &nbsp;|&nbsp; 🏔️ trails &nbsp;|&nbsp; 🎮 indie games
