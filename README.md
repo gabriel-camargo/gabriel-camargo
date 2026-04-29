@@ -12,7 +12,7 @@ Backend engineer focused on building reliable and maintainable systems.
 
 Backend engineer working mainly with **Go**, **Clojure**, and **Node.js**. I care about clean abstractions, resilient systems, and good observability.
 
-When I'm not debugging production at odd hours, you'll find me at a specialty coffee shop, on a trail somewhere, or catching a live show.
+Usually found drinking good coffee, walking some trail, or listening to live music.
 
 ## Currently
 
@@ -24,7 +24,3 @@ When I'm not debugging production at odd hours, you'll find me at a specialty co
 ## 📫 Contact
 
 - LinkedIn: [in/gabriel-rodrigo-camargo](https://www.linkedin.com/in/gabriel-rodrigo-camargo)
-
----
-
-☕ specialty coffee nerd &nbsp;|&nbsp; 🎸 nu metal / alt rock &nbsp;|&nbsp; 🏔️ trails &nbsp;|&nbsp; 🎮 indie games
